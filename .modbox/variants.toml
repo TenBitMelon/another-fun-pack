@@ -1,0 +1,7 @@
+canonicalBranch = "main"
+defaultVariant = "1.21.11-neoforge"
+
+[[variants]]
+id = "1.21.11-neoforge"
+displayName = "1.21.11 neoforge"
+path = "."
