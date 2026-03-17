@@ -4,3 +4,8 @@ hash-format = "sha256"
 file = "mods/sodium.toml"
 hash = "049086b016d2e1a25a254c48c73632ef484f801a559db9c798813e6642824e75"
 metafile = true
+
+[[files]]
+file = "mods/iris.toml"
+hash = "94fa49409b2d3b2351267bceee9b0b07b1083d7da59672585d3111cc9b014b79"
+metafile = true
