@@ -1,2 +1,6 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "049086b016d2e1a25a254c48c73632ef484f801a559db9c798813e6642824e75"
+metafile = true

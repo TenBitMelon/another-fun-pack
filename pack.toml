@@ -4,7 +4,7 @@ creator = "TenBitMelon"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "36db577c3dad9017e342128ae115239b848700d6ef5cd6d5806ab0c1aeaefa02"
+hash = "c5b4e666181b0f6b112c7f235dcab8701bbc683f9910455cbd25a1ee8c98374c"
 
 [versions]
 minecraft = "1.21.11"
