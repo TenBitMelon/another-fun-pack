@@ -1,7 +1,8 @@
 name = "ANother fun pack"
 repoSlug = "another-fun-pack"
 description = "ANother fun pack. A Minecraft neoforge modpack for version 1.21.11."
-descriptionMarkdown = "ANother fun pack. A Minecraft neoforge modpack for version 1.21.11."
+descriptionMarkdown = "ANother fun pack. A Minecraft neoforge modpack for version 1.21.11.\n\n## **Hello!**\n\n`hdhdhd`"
 isPublic = true
 mcVersion = "1.21.11"
 loaderId = "neoforge"
+loaderVersion = "21.11.38-beta"
