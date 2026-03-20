@@ -1,7 +1,12 @@
 canonicalBranch = "main"
+sharedRoot = "."
 defaultVariant = "1.21.11-neoforge"
 
 [[variants]]
 id = "1.21.11-neoforge"
 displayName = "1.21.11 neoforge"
 path = "."
+minecraftVersion = "1.21.11"
+loaderId = "neoforge"
+includeShared = true
+publish = true

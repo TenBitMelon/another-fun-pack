@@ -1,0 +1,5 @@
+version = "0.1.0"
+targetBranch = "main"
+includeSharedRoot = true
+selectedVariantIds = [ "1.21.11-neoforge" ]
+releaseNotes = "Publish ANother fun pack"
